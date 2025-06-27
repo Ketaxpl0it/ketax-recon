@@ -78,7 +78,7 @@ recon/
 ```
 
 # 👨‍💻 Author
-Coded with 💻 by Ketaxpl0it (Neel Tundiya)
+Coded with 💻 by Ketaxpl0it (Neel Tundiya).
 
 # ⚠️ Disclaimer
 This tool is intended for educational and authorized security testing only. Unauthorized usage may be illegal.
